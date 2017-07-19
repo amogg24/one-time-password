@@ -1,1 +1,5 @@
+# ignore firebase config
 service_account.json
+
+#ignore node modules
+/node_modules/
