@@ -2,4 +2,4 @@
 service_account.json
 
 #ignore node modules
-/functions/node_modules/
+node_modules/
