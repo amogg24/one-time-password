@@ -1,5 +1,8 @@
 # ignore firebase config
 service_account.json
 
+# ignore twilio
+twilio.js
+
 #ignore node modules
 node_modules/
